@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 📚Currently studying Bach of Computer Science @Swinburne University of tech<br>🤖Working on creating an platfrom agnostic API adapter to connect large language models with external APIs<br>📑Interested in web ecosystem, deep learning, AI and reverse engineering.<br>📩Send me a message! <br>
 
 
