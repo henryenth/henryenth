@@ -1,5 +1,5 @@
 ## 💫 About Me:
-📚Currently studying Bach of Computer Science @Swinburne University of tech<br>🤖Working on creating an platfrom agnostic API adapter for the collaboration of large language models (LLM) and external APIs<br>📑Interested in the web ecosystem, deep learning/ML and reverse engineering.<br>📩Send me a message! <br>
+📚Currently studying Bach of Computer Science @Swinburne University of tech<br>🤖Working on creating a platfrom agnostic API adapter for the collaboration of large language models (LLM) and external APIs<br>📑Interested in the web ecosystem, deep learning/ML and reverse engineering.<br>📩Send me a message! <br>
 
 
 ## 🌐 Socials:
